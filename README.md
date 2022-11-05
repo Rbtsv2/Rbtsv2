@@ -1,16 +1,18 @@
 ### Hi there 👋
+### I am charles a coding enthusiast ✨
 
-<!--
-**Rbtsv2/Rbtsv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working on web development projects.
+- 🌱 Constant learning
+- 👯 A pleasure to be able to collaborate
+- 📫 How to reach me: charles.fournier@sodevnet.com
+- ⚡ Fun fact: there is no point in taking a bazooka to kill a fly
 
-Here are some ideas to get you started:
+### Languages 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Javascript | C++ | Python | PHP 
+ 
+### Tools
+
+Symfony | Laravel | Express | React | Angular | Node.js | Django
+
+![](https://github-readme-stats.vercel.app/api?username=Rbtsv2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
