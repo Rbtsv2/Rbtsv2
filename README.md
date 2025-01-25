@@ -3,9 +3,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rbtsv2?style=social)](https://github.com/Rbtsv2)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rbtsv2&color=blue)](https://github.com/Rbtsv2)
 
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rbtsv2&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbtsv2&layout=compact&theme=radical) |
-|:--------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rbtsv2&show_icons=true&theme=radical" alt="Your GitHub Stats" style="width: 45%; margin-right: 2%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbtsv2&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
+</div>
 ---
 
 ## 🔭 I’m currently working on :
