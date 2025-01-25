@@ -27,12 +27,6 @@
 
 ---
 
-## 🤔 I’m looking for help with :
-- 📡 Scaling **distributed systems**.
-- 🔒 Best practices for **secure DevOps workflows**.
-
----
-
 ## 💬 Ask me about :
 - 🖥️ Full-stack development tools and frameworks.
 - 🎨 UI/UX design best practices.
