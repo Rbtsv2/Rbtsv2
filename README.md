@@ -4,7 +4,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Rbtsv2&color=blue)](https://github.com/Rbtsv2)
 
  ✨ _special_ ✨
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rbtsv2&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbtsv2&layout=compact&theme=radical)
 ---
 
 ## 🔭 I’m currently working on :
@@ -31,13 +32,6 @@
 - 🖥️ Full-stack development tools and frameworks.
 - 🎨 UI/UX design best practices.
 - 📜 Writing clean and maintainable code.
-
----
-
-## 📊 GitHub Stats :
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rbtsv2&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbtsv2&layout=compact&theme=radical)
 
 ---
 
