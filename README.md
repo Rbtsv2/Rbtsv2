@@ -48,7 +48,7 @@
 
 ---
 
-## 📫 How to reach me / Comment me contacter :
+## 📫 How to reach me :
 - 📧 Email: [charles.fournier@fih.digital](mailto:charles.fournier@fih.digital)
 - 💼 LinkedIn: [Charles Fournier](https://www.linkedin.com/in/charles31100/)
 
