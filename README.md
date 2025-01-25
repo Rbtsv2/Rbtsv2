@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub profile!
 
-<!--
-**Rbtsv2/Rbtsv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Rbtsv2?style=social)](https://github.com/Rbtsv2)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rbtsv2&color=blue)](https://github.com/Rbtsv2)
 
-Here are some ideas to get you started:
+ ✨ _special_ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 I’m currently working on :
+- 🚀 Building innovative solutions with **React**, **GraphQL**, and **Docker**.
+- 📊 Creating data-driven insights using **Python** and advanced analytics.
+- 🛠️ Exploring **Kubernetes** for CI/CD pipeline automation.
+
+---
+
+## 🌱 I’m currently learning :
+- 🧠 Advanced **Machine Learning** techniques.
+- 📈 Mastering **PostgreSQL** optimizations.
+- 📦 Efficient deployment strategies with **GitHub Actions**.
+
+---
+
+## 👯 I’m looking to collaborate on :
+- 💡 Open-source projects focused on **full-stack development**.
+- 🌍 Initiatives promoting **sustainable software engineering**.
+
+---
+
+## 🤔 I’m looking for help with :
+- 📡 Scaling **distributed systems**.
+- 🔒 Best practices for **secure DevOps workflows**.
+
+---
+
+## 💬 Ask me about :
+- 🖥️ Full-stack development tools and frameworks.
+- 🎨 UI/UX design best practices.
+- 📜 Writing clean and maintainable code.
+
+---
+
+## 📊 GitHub Stats :
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rbtsv2&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbtsv2&layout=compact&theme=radical)
+
+---
+
+## 📫 How to reach me / Comment me contacter :
+- 📧 Email: [charles.fournier@fih.digital](mailto:charles.fournier@fih.digital)
+- 💼 LinkedIn: [Charles Fournier](https://www.linkedin.com/in/charles31100/)
+
+---
+
+
+
+
+
