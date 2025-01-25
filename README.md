@@ -3,10 +3,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rbtsv2?style=social)](https://github.com/Rbtsv2)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rbtsv2&color=blue)](https://github.com/Rbtsv2)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rbtsv2&show_icons=true&theme=radical" alt="Your GitHub Stats" style="height: 200px; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbtsv2&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rbtsv2&show_icons=true&theme=radical" alt="Your GitHub Stats" style="width: 400px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbtsv2&layout=compact&theme=radical" alt="Top Languages" style="width: 400px; height: 200px;" />
 </div>
+
+
 
 ---
 
